@@ -94,6 +94,10 @@ jobs:
         with: { node-version: '20' }
       - run: npm install
 ```
+## Demo Video
+Link: https://youtu.be/rD9tSdBQxZo?feature=shared 
+
+
 
 ## Known limitations (prototype scope)
 
